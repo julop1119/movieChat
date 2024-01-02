@@ -7,10 +7,10 @@
     },
     "description": "NodeJS Tutorial Server",
     "author": {
-      "name": "ywlee"
+      "name": "kkk"
     },
     "dependencies": {
       "express": "^4.16.3",
-      "uuid": "^3.2.1"
+      "uuid": "^3.2.1" 
     }
   }
